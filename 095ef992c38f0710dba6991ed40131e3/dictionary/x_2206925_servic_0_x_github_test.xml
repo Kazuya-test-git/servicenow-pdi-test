@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b1a7c296c3cf0710dba6991ed40131c2" label="GitHub Test" max_length="40" name="x_2206925_servic_0_x_github_test" type="collection">
+        <element label="test_name" max_length="40" name="test_name" type="string"/>
+    </element>
+</database>
